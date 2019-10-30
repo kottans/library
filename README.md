@@ -1,5 +1,9 @@
 # Kottans library
 
+## Internal materials:
+
+Here must be links to materials which placed in this repo
+
 ## External materials:
 
 ### 1. [Kottans philosophy](https://1drv.ms/w/s!AvHEh58eP3QohIpqUS5RlsM-GWEiIQ)
